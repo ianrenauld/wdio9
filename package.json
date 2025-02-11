@@ -1,0 +1,18 @@
+{
+  "name": "wdio9",
+  "version": "0.1.0",
+  "description": "Minimal WDIO 9 project to reproduce CLI bug",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianrenauld/wdio9"
+  },
+  "author": "Ian Renauld",
+  "dependencies": {
+    "@wdio/cli": "^9.4.3",
+    "@wdio/local-runner": "^9.4.2",
+    "@wdio/mocha-framework": "^9.4.2",
+    "@wdio/spec-reporter": "^9.4.2",
+    "tsx": "^4.19.2"
+  }
+}
